@@ -55,8 +55,8 @@
                         :height size
                         :weight 'normal)))
 
-(when exordium-preferred-fonts
-  (exordium-set-font))
+;(when exordium-preferred-fonts
+;  (exordium-set-font))
 
 
 ;;; User interface
